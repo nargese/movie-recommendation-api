@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User-specific
+*.user
+*.suo
+
+# Build results
+*.dll
+*.exe
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node (if frontend inside)
+node_modules/
